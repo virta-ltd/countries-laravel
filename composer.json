@@ -29,9 +29,9 @@
 
     "require": {
         "php": ">=7.0",
-        "laravel/framework": ">=5.3",
+        "laravel/framework": ">=11.0",
         "psr/simple-cache": "^1.0",
-        "pragmarx/coollection": ">=0.6",
+        "pragmarx/coollection": "dev-laravel-11",
         "pragmarx/countries": ">=0.5.8"
     },
 
